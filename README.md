@@ -1,6 +1,6 @@
 # Udacity-Deep-Learning-Nanodegree
 
-This repository contains project work for Udacity's [Deep Learning Nanodegree](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898).
+This repository contains project work for Udacity's [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
 
 ### Projects:
 - **Project 1** - Your First Neural Network
